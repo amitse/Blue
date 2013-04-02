@@ -1,0 +1,57 @@
+#maincontent
+{
+	width: 700px;
+	margin: 10px auto;
+	border: 1px solid black;
+	border-radius : 4px;
+	height:500px;
+	align:left;
+	
+}
+
+#na
+{
+	width:50%;
+	align:center;
+	margin-left:200px;
+	text-align: center;
+	margin-top:5px;
+}
+
+
+
+#inp
+{
+	width:99%;
+	margin-top:5px;
+	margin-bottom:0px;
+}
+
+#header
+{
+	height:35px;
+	background-color: blue;
+}
+#ta
+{
+	height:75%;
+	margin:5px;
+	width:98%;
+	align:center;
+	border:null;
+	color:black;
+/*
+	overflow:hidden;
+*/
+	resize:none;
+}
+body
+{
+
+}
+#inp
+{
+	width:80%
+	margin-top:5px;
+
+}
